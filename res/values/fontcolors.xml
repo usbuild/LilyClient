@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="colorlist">
+        <item>黑色</item>
+        <item>银色</item>
+        <item>灰色</item>
+        <item>白色</item>
+        <item>茶色</item>
+        <item>红色</item>
+        <item>紫色</item>
+        <item>紫红</item>
+        <item>绿色</item>
+        <item>亮绿</item>
+        <item>橄榄</item>
+        <item>黄色</item>
+        <item>深蓝</item>
+        <item>蓝色</item>
+        <item>青色</item>
+        <item>浅绿</item>
+    </string-array>
+    <string-array name="colorref">
+        <item>Black</item>
+        <item>Silver</item>
+        <item>Gray</item>
+        <item>White</item>
+        <item>Maroon</item>
+        <item>Red</item>
+        <item>Purple</item>
+        <item>Fuchsia</item>
+        <item>Green</item>
+        <item>Lime</item>
+        <item>Olive</item>
+        <item>Yellow</item>
+        <item>Navy</item>
+        <item>Blue</item>
+        <item>Teal</item>
+        <item>Aqua</item>
+    </string-array>
+
+</resources>

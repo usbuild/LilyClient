@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:title="显示图片" android:key="showpic"/>
+    <EditTextPreference android:dialogTitle="输入签名档" android:title="签名档" android:key="sig"/>
+    
+
+</PreferenceScreen>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="attach">
+        <item >本地图片</item>
+        <item >拍照</item>
+        <item >本地文件</item>
+        <item >自带表情</item>
+        <item >扩展表情</item>
+        <item >艺术字</item>
+        <item >地理位置</item>
+        <item >涂鸦</item>
+    </string-array>
+</resources>

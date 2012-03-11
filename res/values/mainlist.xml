@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainlist">
+        <item >全站十大</item>
+        <item >热门板块</item>
+        <item >热门帖子</item>
+        <item >分类版区</item>
+        <item >我的收藏</item>
+        <item >更多</item>
+    </string-array>
+</resources>
