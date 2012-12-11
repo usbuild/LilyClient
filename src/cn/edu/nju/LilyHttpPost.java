@@ -28,7 +28,7 @@ public class LilyHttpPost {
 		httpPost = new HttpPost();
 	}
 	public void setUri(String uri) {
-		url = "http://usbuild.sinaapp.com/lily/" + uri;
+		url = "http://usbuild.duapp.com/lily/" + uri;
 	}
 	public void addParam(String name, String value) {
 		params.add(new BasicNameValuePair(name, value));

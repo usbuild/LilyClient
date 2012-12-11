@@ -29,7 +29,7 @@ public class LilyHttpGet {
 		httpGet = new HttpGet();
 	}
 	public void setUri(String uri) {
-		url = "http://usbuild.sinaapp.com/lily/" + uri + "?";
+		url = "http://usbuild.duapp.com/lily/" + uri + "?";
 	}
 	public void addParam(String name, String value) {
 		Iterator<NameValuePair> pair = params.iterator();

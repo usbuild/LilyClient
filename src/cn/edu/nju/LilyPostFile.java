@@ -27,7 +27,7 @@ public class LilyPostFile {
 	public LilyPostFile(String uri, File file, String board, String cookie) {
 		client = new DefaultHttpClient();
 		httpPost = new HttpPost();
-		url = "http://usbuild.sinaapp.com/lily/" + uri + "?";
+		url = "http://usbuild.duaapp.com/lily/" + uri + "?";
 		List<NameValuePair> params = new LinkedList<NameValuePair>();
 		params.add(new BasicNameValuePair("board", board));
 		params.add(new BasicNameValuePair("cookie", cookie));

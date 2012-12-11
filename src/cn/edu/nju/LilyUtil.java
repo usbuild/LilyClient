@@ -55,6 +55,7 @@ public class LilyUtil {
 			final int start = sp.getSpanStart(span);
 			final int end = sp.getSpanEnd(span);
 
+
 			ClickableSpan click_span = new ClickableSpan() {
 				@Override
 				public void onClick(View widget) {

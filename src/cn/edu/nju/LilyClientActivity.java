@@ -91,8 +91,8 @@ public class LilyClientActivity extends Activity {
 	}
 
 	private void login() {
-		httpGet.addParam("username", editText1.getText().toString());
-		httpGet.addParam("password", editText2.getText().toString());
+		httpGet.addParam("username", editText1.getText().toString().trim());
+		httpGet.addParam("password", editText2.getText().toString().trim());
 		httpGet.setUri("getCookie.php");
 
 		String cookie = httpGet.execute();
